@@ -22,11 +22,12 @@ Understand EV performance trends and market competitiveness across brands & segm
 - What are the Top 10 EVs in battery, range, efficiency & value?
 - How do price and performance correlate across the market?
 
-**Tableau Dashboard**
+## Tableau Dashboard
 Explore the interactive dashboard here: [website](https://public.tableau.com/app/profile/mohtasim.fahim/viz/GlobalEVMarketPerformanceInsights/Dashboard1)
 
 
-**Key Findings & Insights**
+## Key Findings & Insights  
+
 Top 20 Longest-Range EVs
 - Lucid Air Grand Touring variants dominate with 700+ km range — highest in the dataset
 - High-end Mercedes EQS models are also strong in long-distance capability (~600–650 km)
@@ -81,7 +82,7 @@ python src/scraper.py
 ```bash
 python src/preprocessing.py
 ```
-
+6. You will get ev_cars_details.csv inside data folder. To check our scraped data you can visit [ev_cars_details.csv](https://github.com/mohtasim22/Global-EV-Market-Performance-Insights/blob/main/data/ev_cars_details.csv)
 
 ## Contact
 If you have any queries you can contact me here: fahimatbd@gmail.com
