@@ -4,7 +4,7 @@ Electric Vehicle (EV) adoption is accelerating worldwide but how do different mo
 This project scrapes a comprehensive dataset of EV models, preprocesses and analyzes the data, and visualizes key performance & market insights using an interactive Tableau dashboard.
 
 ## Problem Statement
-This project collects data for 1,000+ EV models from [website](https://ev-database.org) globally, enabling deeper analytical insights into EV technological competitiveness and market positioning.
+This project collects data for 1,000+ EV models from this [website](https://ev-database.org) globally, enabling deeper analytical insights into EV technological competitiveness and market positioning.
 
 ## Goals and Objective
 **Goal:**
@@ -23,7 +23,7 @@ Understand EV performance trends and market competitiveness across brands & segm
 - How do price and performance correlate across the market?
 
 ## Tableau Dashboard
-Explore the interactive dashboard here: [website](https://public.tableau.com/app/profile/mohtasim.fahim/viz/GlobalEVMarketPerformanceInsights/Dashboard1)
+Explore the interactive dashboard here: [Tableau Dashboard](https://public.tableau.com/app/profile/mohtasim.fahim/viz/GlobalEVMarketPerformanceInsights/Dashboard1)
 
 
 ## Key Findings & Insights  
